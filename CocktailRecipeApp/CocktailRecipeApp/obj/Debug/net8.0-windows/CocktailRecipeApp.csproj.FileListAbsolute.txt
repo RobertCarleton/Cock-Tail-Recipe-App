@@ -1,0 +1,5 @@
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\CocktailRecipeApp.csproj.AssemblyReference.cache
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\CocktailRecipeApp_MarkupCompile.cache
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\CocktailRecipeApp_MarkupCompile.lref

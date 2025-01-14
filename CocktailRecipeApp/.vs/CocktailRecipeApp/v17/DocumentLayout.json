@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C890234-9D8C-42C5-A40B-385EB106669D}|CocktailRecipeApp\\CocktailRecipeApp.csproj|c:\\users\\robert c\\documents\\github\\cock-tail-recipe-app\\cocktailrecipeapp\\cocktailrecipeapp\\cocktaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C890234-9D8C-42C5-A40B-385EB106669D}|CocktailRecipeApp\\CocktailRecipeApp.csproj|solutionrelative:cocktailrecipeapp\\cocktaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C890234-9D8C-42C5-A40B-385EB106669D}|CocktailRecipeApp\\CocktailRecipeApp.csproj|c:\\users\\robert c\\documents\\github\\cock-tail-recipe-app\\cocktailrecipeapp\\cocktailrecipeapp\\cocktailrecipeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C890234-9D8C-42C5-A40B-385EB106669D}|CocktailRecipeApp\\CocktailRecipeApp.csproj|solutionrelative:cocktailrecipeapp\\cocktailrecipeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C890234-9D8C-42C5-A40B-385EB106669D}|CocktailRecipeApp\\CocktailRecipeApp.csproj|c:\\users\\robert c\\documents\\github\\cock-tail-recipe-app\\cocktailrecipeapp\\cocktailrecipeapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C890234-9D8C-42C5-A40B-385EB106669D}|CocktailRecipeApp\\CocktailRecipeApp.csproj|solutionrelative:cocktailrecipeapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C890234-9D8C-42C5-A40B-385EB106669D}|CocktailRecipeApp\\CocktailRecipeApp.csproj|c:\\users\\robert c\\documents\\github\\cock-tail-recipe-app\\cocktailrecipeapp\\cocktailrecipeapp\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C890234-9D8C-42C5-A40B-385EB106669D}|CocktailRecipeApp\\CocktailRecipeApp.csproj|solutionrelative:cocktailrecipeapp\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,32 +66,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CocktailRecipeApp",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\CocktailRecipeApp.csproj",
+              "RelativeDocumentMoniker": "CocktailRecipeApp\\CocktailRecipeApp.csproj",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\CocktailRecipeApp.csproj",
+              "RelativeToolTip": "CocktailRecipeApp\\CocktailRecipeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T00:19:01.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CocktailRecipeApp\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CocktailRecipeApp\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:18:11.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CocktailDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\CocktailDbContext.cs",
+              "RelativeDocumentMoniker": "CocktailRecipeApp\\CocktailDbContext.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\CocktailDbContext.cs",
+              "RelativeToolTip": "CocktailRecipeApp\\CocktailDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:12:56.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Cocktail.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\Cocktail.cs",
               "RelativeDocumentMoniker": "CocktailRecipeApp\\Cocktail.cs",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\Cocktail.cs",
               "RelativeToolTip": "CocktailRecipeApp\\Cocktail.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T17:21:32.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CocktailRecipeApp\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\MainWindow.xaml",
               "RelativeToolTip": "CocktailRecipeApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-29T14:04:02.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T14:04:02.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\Cock-Tail-Recipe-App\\CocktailRecipeApp\\CocktailRecipeApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CocktailRecipeApp\\MainWindow.xaml.cs",
@@ -87,8 +137,7 @@
               "RelativeToolTip": "CocktailRecipeApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:04:00.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T14:04:00.437Z"
             }
           ]
         }
