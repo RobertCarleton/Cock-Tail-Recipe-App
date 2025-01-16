@@ -148,3 +148,8 @@ C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\Cockta
 C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\EditCocktailPage.baml
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\RateCocktailPage.baml
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\EditCocktailPage.g.cs
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\HomePage.g.cs
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\RateCocktailPage.g.cs
