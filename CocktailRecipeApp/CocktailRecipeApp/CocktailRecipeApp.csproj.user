@@ -2,24 +2,36 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="EditCocktailPage.xaml.cs">
+    <Compile Update="Pages\AboutUsPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="HomePage.xaml.cs">
+    <Compile Update="Pages\AddEditCocktailPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="RateCocktailPage.xaml.cs">
+    <Compile Update="Pages\CocktailsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\HomePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\RateCocktailPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="EditCocktailPage.xaml">
+    <Page Update="Pages\AboutUsPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="HomePage.xaml">
+    <Page Update="Pages\AddEditCocktailPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="RateCocktailPage.xaml">
+    <Page Update="Pages\CocktailsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\HomePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\RateCocktailPage.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

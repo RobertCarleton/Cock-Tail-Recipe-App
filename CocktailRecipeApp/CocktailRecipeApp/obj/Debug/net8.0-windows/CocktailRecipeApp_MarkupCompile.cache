@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\App.xaml
-41034391531
+6-2029021476
 
-14-2017191913
+261563447537
 228747420239
-EditCocktailPage.xaml;HomePage.xaml;MainWindow.xaml;RateCocktailPage.xaml;
+MainWindow.xaml;Pages\AboutUsPage.xaml;Pages\AddEditCocktailPage.xaml;Pages\CocktailsPage.xaml;Pages\HomePage.xaml;Pages\RateCocktailPage.xaml;
 
-True
+False
 

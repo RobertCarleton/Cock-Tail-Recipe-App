@@ -1,0 +1,20 @@
+﻿CocktailRecipeApp
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\
+CocktailRecipeApp
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\App.xaml
+6-2029021476
+
+28-1798006108
+228747420239
+MainWindow.xaml;Pages\AboutUsPage.xaml;Pages\AddEditCocktailPage.xaml;Pages\CocktailsPage.xaml;Pages\HomePage.xaml;Pages\RateCocktailPage.xaml;
+
+False
+
