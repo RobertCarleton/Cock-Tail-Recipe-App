@@ -9,7 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Images\bar.PNG" />
+    <None Remove="images\bar.PNG" />
+    <None Remove="images\cosmo.jpg" />
+    <None Remove="images\fash.jpg" />
+    <None Remove="images\margarita.jpg" />
+    <None Remove="images\mojito.png" />
+    <None Remove="images\passion.jpeg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,9 +31,24 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Images\bar.PNG">
+    <Content Include="images\bar.PNG">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Resource>
+    </Content>
+    <Content Include="images\cosmo.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\fash.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\margarita.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\mojito.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\passion.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

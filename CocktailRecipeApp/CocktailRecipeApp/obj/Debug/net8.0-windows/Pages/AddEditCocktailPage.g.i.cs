@@ -108,7 +108,7 @@ namespace CocktailRecipeApp {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/CocktailRecipeApp;V1.0.0.0;component/pages/addeditcocktailpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/CocktailRecipeApp;component/pages/addeditcocktailpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Pages\AddEditCocktailPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

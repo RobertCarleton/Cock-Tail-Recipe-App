@@ -5,9 +5,9 @@
     <Grid>
         <!-- Background Image -->
         <Grid.Background>
-            <ImageBrush ImageSource="/CocktailRecipeApp;component/Images/bar.PNG"/>
+            <ImageBrush ImageSource="/CocktailRecipeApp;component/images/bar.PNG"/>
         </Grid.Background>
-        <Rectangle Fill="White" Opacity="0.3"/>
+        <Rectangle Fill="White" Opacity="0.5"/>
         <DockPanel>
             <!-- Navigation Menu -->
             <StackPanel DockPanel.Dock="Left" Background="#2C3E50" Width="200" VerticalAlignment="Stretch">

@@ -159,3 +159,10 @@ C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\Cockta
 C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\Pages\RateCocktailPage.g.cs
 C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\CocktailRecipeApp_MarkupCompile.lref
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\bin\Debug\net8.0-windows\Images\bar.PNG
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\obj\Debug\net8.0-windows\CocktailRecipeApp_Content.g.cs
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\bin\Debug\net8.0-windows\images\passion.jpeg
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\bin\Debug\net8.0-windows\images\cosmo.jpg
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\bin\Debug\net8.0-windows\images\fash.jpg
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\bin\Debug\net8.0-windows\images\margarita.jpg
+C:\Users\Robert C\Documents\GitHub\Cock-Tail-Recipe-App\CocktailRecipeApp\CocktailRecipeApp\bin\Debug\net8.0-windows\images\mojito.png
